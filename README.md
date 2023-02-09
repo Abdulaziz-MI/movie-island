@@ -5,8 +5,6 @@ This is a simple movie search SPA inspired by a tutorial to demonstrate the basi
 
 This project was bootstrapped with Create React App.
 
-View Demo | Report Issue | Request Feature | @webceyhan
-
 
 # Installation
 Clone the repository.
