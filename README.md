@@ -1,6 +1,6 @@
 # movie-island
  
-MovieLand Application + React + Bootstrap
+movie-island Application + React + Bootstrap
 This is a simple movie search SPA inspired by a tutorial to demonstrate the basics of React framework and its core concepts.
 
 This project was bootstrapped with Create React App.
@@ -8,9 +8,9 @@ This project was bootstrapped with Create React App.
 
 # Installation
 Clone the repository.
-git clone https://github.com/webceyhan/react-movie-land.git
+git clone https://github.com/Abdulaziz-MI/movie-island.git
 Get inside the cloned project folder.
-cd react-movie-land
+cd movie-island
 Install NPM packages.
 npm install
 
