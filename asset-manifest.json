@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movie-island/static/css/main.23afc1f5.css",
+    "main.js": "/movie-island/static/js/main.50203858.js",
+    "index.html": "/movie-island/index.html",
+    "static/media/search.svg": "/movie-island/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.23afc1f5.css.map": "/movie-island/static/css/main.23afc1f5.css.map",
+    "main.50203858.js.map": "/movie-island/static/js/main.50203858.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23afc1f5.css",
+    "static/js/main.50203858.js"
+  ]
+}
