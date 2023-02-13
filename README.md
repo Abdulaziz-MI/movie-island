@@ -1,6 +1,7 @@
 # movie-island
 
-movie-island Application + React + Bootstrap
+movie-island Application + React + Bootstrap.
+
 This is a simple movie search project inspired by a tutorial to demonstrate the basics of React framework and its core concepts.
 
 This project was bootstrapped with Create React App.
